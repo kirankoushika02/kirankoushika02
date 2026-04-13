@@ -1,6 +1,6 @@
 ## Hi there I'm Kiran 👋
 
-### Data Analytics MSc Graduate | Data Analyst | DevOps Engineer
+### DevOps Engineer | Data Analytics MSc Graduate | Data Analyst 
 
 I’m a Master’s graduate in **Computer Science (Data Analytics)** at the **University of Galway**, with industry experience at **Accenture** and **LTIMindtree**. I enjoy building data-driven solutions across analytics, automation, ETL pipelines, CI/CD pipelines, dashboards, and cloud-based workflows. My background combines **data analytics, DevOps, observability, and business intelligence**, and I’m especially interested in solving real-world problems using **Python, SQL, Power BI, Tableau, and cloud technologies**.
 
@@ -44,14 +44,6 @@ I’m a Master’s graduate in **Computer Science (Data Analytics)** at the **Un
 ### 📌 Telecom Customer Churn Analysis
 Built interactive dashboards to analyze churn behaviour, identify high-risk customer groups, and support retention strategies using Tableau, Python, and Excel.
 
-### 📌 Financial Transaction Data Analysis
-Developed SQL-based workflows to process and validate 100K+ financial transaction records, detect anomalies, and uncover payment behaviour patterns.
-
-### 📌 Operations and Process Efficiency Dashboard
-Created a Power BI dashboard using SQL and Excel to monitor utilization, throughput, downtime, and equipment performance trends.
-
-### 📌 CI/CD Pipeline Automation Project
-Built an end-to-end CI/CD pipeline using Jenkins, Docker, GitHub, and SonarQube to automate builds, testing, and deployments.
 
 ---
 
